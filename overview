@@ -1,0 +1,13 @@
+Database:
+  username
+  user recipe book
+    picture of prepped meal
+    recipe title
+    recipe (instructions)
+    cooking time
+    prep time
+    total time
+    comment section - review (5 star rating) and response
+    
+  recipe book rating
+    
